@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>normalfont.spritefont</Source>
+      <Name>normalfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb</Output>
+      <Time>2013-05-09T15:51:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>titlefont.spritefont</Source>
+      <Name>titlefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb</Output>
+      <Time>2013-05-09T15:51:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Female.png</Source>
+      <Name>Female</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb</Output>
+      <Time>2013-05-09T22:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Male.png</Source>
+      <Name>Male</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb</Output>
+      <Time>2013-05-09T22:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MaleOrFemale.png</Source>
+      <Name>MaleOrFemale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb</Output>
+      <Time>2013-05-09T22:11:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>IntroBG.jpg</Source>
+      <Name>IntroBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb</Output>
+      <Time>2013-05-09T15:58:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel.JPG</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2013-05-09T16:06:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attributes Screen.png</Source>
+      <Name>Attributes Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb</Output>
+      <Time>2013-05-10T10:35:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attributes Agility.png</Source>
+      <Name>Attributes Agility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb</Output>
+      <Time>2013-05-10T10:48:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attributes Intellect.png</Source>
+      <Name>Attributes Intellect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb</Output>
+      <Time>2013-05-10T10:48:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Attributes Strength.png</Source>
+      <Name>Attributes Strength</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb</Output>
+      <Time>2013-05-10T10:48:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DefenseHpPic.png</Source>
+      <Name>DefenseHpPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb</Output>
+      <Time>2013-05-10T12:49:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MoveSelection.png</Source>
+      <Name>MoveSelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb</Output>
+      <Time>2013-05-10T13:58:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ToonSelection.png</Source>
+      <Name>ToonSelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb</Output>
+      <Time>2013-05-10T16:59:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FightScreen.png</Source>
+      <Name>FightScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb</Output>
+      <Time>2013-05-11T13:45:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EnergyMoveBg.png</Source>
+      <Name>EnergyMoveBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb</Output>
+      <Time>2013-05-11T13:34:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuckMoveBg.png</Source>
+      <Name>LuckMoveBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb</Output>
+      <Time>2013-05-11T13:34:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ManaMoveBg.png</Source>
+      <Name>ManaMoveBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb</Output>
+      <Time>2013-05-11T13:34:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RageMoveBg.png</Source>
+      <Name>RageMoveBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb</Output>
+      <Time>2013-05-11T13:34:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SOPBuff.jpg</Source>
+      <Name>SOPBuff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\SOPBuff.xnb</Output>
+      <Time>2013-05-23T18:41:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Abyss.jpg</Source>
+      <Name>Abyss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Abyss.xnb</Output>
+      <Time>2013-05-23T23:40:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConcussionPic.jpg</Source>
+      <Name>ConcussionPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ConcussionPic.xnb</Output>
+      <Time>2013-05-23T23:47:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RainOfArrowsPic.png</Source>
+      <Name>RainOfArrowsPic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RainOfArrowsPic.xnb</Output>
+      <Time>2013-05-24T15:33:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>witch.jpg</Source>
+      <Name>witch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\witch.xnb</Output>
+      <Time>2013-05-23T23:51:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Stealth.jpg</Source>
+      <Name>Stealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Stealth.xnb</Output>
+      <Time>2013-05-24T15:06:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Broken Chain.png</Source>
+      <Name>Broken Chain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Broken Chain.xnb</Output>
+      <Time>2013-05-24T18:35:44-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\My Programs\Final Project\Final Project\Final ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>F:\My Programs\Final Project\Final Project\Final Project\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\My Programs\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-23T16:34:47.546276-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

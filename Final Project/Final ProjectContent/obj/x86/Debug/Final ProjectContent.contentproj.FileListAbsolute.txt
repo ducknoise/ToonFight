@@ -1,0 +1,7 @@
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\Final ProjectContent.contentprojResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noam\Desktop\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\Final ProjectContent.contentprojResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Programs\Final Project\Final Project\Final ProjectContent\obj\x86\Debug\Final ProjectContent.contentprojResolveAssemblyReference.cache

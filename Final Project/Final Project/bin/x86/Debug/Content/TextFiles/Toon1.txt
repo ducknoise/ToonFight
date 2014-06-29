@@ -1,0 +1,1 @@
+IntT;M;0;20;0;1600;1600;Mana;Mana;Mana;Mana;

@@ -1,0 +1,1 @@
+Gal;F;10;5;5;2408;792;Energy;Mana;Rage;Luck;

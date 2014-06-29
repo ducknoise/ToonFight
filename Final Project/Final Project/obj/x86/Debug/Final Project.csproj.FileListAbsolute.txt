@@ -1,0 +1,189 @@
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\visual studio 2010\Projects\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+\\artemis\14nlerner\my documents\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\obj\x86\Debug\ResolveAssemblyReference.cache
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\SOPBuff.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\SOPBuff.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Abyss.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ConcussionPic.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RainOfArrowsPic.xnb
+C:\Users\Noam\Desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\witch.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\SOPBuff.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Abyss.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ConcussionPic.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RainOfArrowsPic.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\witch.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Stealth.xnb
+C:\Users\Noam\Dropbox\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Broken Chain.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Abyss.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ConcussionPic.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RainOfArrowsPic.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\witch.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Stealth.xnb
+\\artemis\14nlerner\desktop\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Broken Chain.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\normalfont.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\titlefont.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Female.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Male.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MaleOrFemale.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\IntroBG.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Pixel.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Screen.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Agility.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Intellect.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Attributes Strength.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\DefenseHpPic.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\MoveSelection.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ToonSelection.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\FightScreen.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\EnergyMoveBg.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\LuckMoveBg.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ManaMoveBg.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RageMoveBg.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\SOPBuff.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Abyss.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\ConcussionPic.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\RainOfArrowsPic.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\witch.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Stealth.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\Broken Chain.xnb
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Content\TextFiles\Character Count.txt
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.exe
+F:\My Programs\Final Project\Final Project\Final Project\bin\x86\Debug\Final Project.pdb
+F:\My Programs\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.csprojResolveAssemblyReference.cache
+F:\My Programs\Final Project\Final Project\Final Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\My Programs\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+F:\My Programs\Final Project\Final Project\Final Project\obj\x86\Debug\Final Project.pdb

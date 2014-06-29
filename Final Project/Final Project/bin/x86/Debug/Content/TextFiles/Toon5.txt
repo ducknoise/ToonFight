@@ -1,0 +1,1 @@
+Yoni;F;5;5;10;1200;2000;Energy;Mana;Rage;Luck;
